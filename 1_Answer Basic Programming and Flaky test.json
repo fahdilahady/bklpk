@@ -1,0 +1,43 @@
+{
+    "Basic Programming": {
+        "1": {
+            "Q": "Common Data type for aritmatic operation",
+            "A": " integer or float"
+        },
+        "2": {
+            "Q": "data-type usually used in word and character",
+            "A": "Char, String and Text. Depend how long the words"
+        },
+        "3": {
+            "Q": "output code of int a = 100 + 3 * 5 - 10 /5",
+            "A": "Print to stdOut => 113"
+        },
+        "4": {
+            "Q": "output code of loop 6 times for a =a +2 then divided by 6",
+            "A": "2"
+        },
+        "5": {
+            "Q": "System.out.println(address.replace(' ', '')",
+            "A": "3566GoldenStreetMiami"
+        }
+    },
+    "Flaky Test":{
+        "1":{
+            "Q": "what is flaky test?",
+            "A": "it is repetitive end to end testing both passes and fail test to boost the confidence of release. it will take alot of time before the release"
+        },
+        "2":{
+            "Q":"Async testing of Javascript",
+            "A":""
+        },
+        "3":{
+            "Q": "captha on automatic testing of a webpage",
+            "A": "it is possible to be read the captcha by utilising an artificial intellegence, such Optical Character Recognition.",
+            "A2": "However it is could be an ineffecient way to test. Since this OCR will need a big system and costly.",
+            "A3": "So manually test the captcha instead.",
+            "A4": "But the webpage still need to be tested, so to be able to have an access.",
+            "A5": "there should be an API or service to bypass the verification. Or we shutdown the verification instead.",
+            "A6": "offcourse this should be done only on dev/uat environment, NOT on the production."
+        }
+    }
+}

@@ -1,0 +1,43 @@
+authority: www.bukalapak.com
+method: POST
+path: /users
+scheme: https
+accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+accept-encoding: gzip, deflate, br
+accept-language: en-US,en;q=0.9
+cache-control: max-age=0
+content-length: 723
+content-type: application/x-www-form-urlencoded
+cookie: __cfduid=d9f4e4fa5a217df70d6a9f264e80daedf1594109832; identity=f63c754573240cbe19324dc373b0fd37; __auc=9aaefdc01732859b1fae617c0e9; undefined; _ga=GA1.2.1140440634.1594109834; _gcl_au=1.1.5351991.1594109835; _fbp=fb.1.1594109834779.1207118270; __gads=ID=94f553d9ce46d2b2:T=1594109872:S=ALNI_MZMDRWAzu2K1fOYxoJ0-lBXiT34Yg; browser_id=e8aa7489d88b628dc30cc5460b68f9db; session_id=466bb94e3798a5fe7648321dec062dca; _vwo_uuid_v2=DDB286A282C4FFB75FCF5723E853D2CEC|59ad65355f4215d77e891823213e74c6; bukareksa_show_disclaimer=true; _csrf=TuhrVVahuH3-IitsJbEm2bKP; __cfruid=79e1f338015b023a65162e6949a0b8dacc22d2ec-1595506769; _gid=GA1.2.49440570.1595506779; lskjfewjrh34ghj23brjh234=VUx3cXhDYnBuRDU0T2lySEQ3WGVrL1BReGlmWjBMWnZGVkZOQzNJQTA1ZkQ3a3lmWUFGdVNZSzU3WmFTMlZUQjVhSkxtUjJTMVdFSW1TVm1NdjJkN0VFTGQ2cVMvMG5ZaHUwbDAwRmh6bE9FSktrbTRXZmQwbFNsMEJLQzlyeVpvVG00bVVLbjZFK1JPZTdVNk41SmNwOVhuWHhGd3QwRHI5TEdTR2RqaXZNM2x6TFdId2R2UHMwdU15UW9hZzBmKzhBR2F3WEVCSUVQOVMvbFNSN3pZQT09LS13M0JNU3JWUDVCYzlONFcxTmx4bVlRPT0%3D--430b0b091c081958a9e2720e933b3466a3b43aba; _td=f25ae522-0014-4b9a-ae6b-addd7db4a957
+origin: https://www.bukalapak.com
+referer: https://www.bukalapak.com/register?from=nav_header&comeback=https://www.bukalapak.com/
+sec-fetch-dest: document
+sec-fetch-mode: navigate
+sec-fetch-site: same-origin
+sec-fetch-user: ?1
+upgrade-insecure-requests: 1
+user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+
+utf8: ✓
+authenticity_token: PCPnrVWPRhbizGuWWzliM6s8+lJ9IbwOUdJ3FaCH6EGL3h51lqgCuLzdXiE7uk9Gm6a6+36++8MdVmQ04peTUw==
+user[policy]: 1
+user[referral_code]: 
+referrer_token: 
+comeback: https://www.bukalapak.com/
+blca: 
+phone_registration_active: true
+referrer_page: 
+multiple_staff: false
+event_trigger: nav_header
+recaptcha_active: false
+recaptcha_sitekey: 6LcXvDYUAAAAAK965FiPJPrmYIjOeZKPbjM_3Jxu
+form_duration: 1981676
+user[name]: Jono
+user[email_or_phone]: test.pulse20201@gmail.com
+user[gender]: Laki-laki
+user[username]: pulsefromme
+user[password]: Pruservice@20
+user[password_confirmation]: Pruservice@20
+user[dana_binding]: 0
+user[agreement]: 0
+user[agreement]: 1
