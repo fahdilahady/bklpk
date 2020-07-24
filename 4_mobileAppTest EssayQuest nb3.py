@@ -5,6 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 
 def createMobileDriverConnection():
+    baseUrl = 'http://localhost:4723/wd/hub'
     desired_caps = {
     "platformName": "Android",
     "platformVersion": "9.0",
@@ -12,7 +13,7 @@ def createMobileDriverConnection():
     "automationName": "Appium",
     "app": "/Users/pulseengineering/Downloads/Sample Android Login.apk"
     }
-    return webdriver.Remote('http://localhost:4723/wd/hub', desired_caps)
+    return webdriver.Remote(baseUrl, desired_caps)
 
 def verifyLogin(driver, emailAddr = "", password = ""):
     emailElemId = "com.loginmodule.learning:id/textInputEditTextEmail"
