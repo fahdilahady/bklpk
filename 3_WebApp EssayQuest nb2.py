@@ -39,10 +39,9 @@ if __name__ == "__main__":
     element = openLoginPage()
     assert "Bukalapak" in driver.title, "wrong web app, expected Bukalapak"
     assert "No results found." not in driver.page_source 
-    
 
     element = fillLoginData('wrongEmailFormat@google','wrongPas')#negative case 
-    #assert "Username atau password yang kamu masukkan salah" in driver.page_source , "negative case expected: wrong pass / email"
+    assert "Username atau password yang kamu masukkan salah" in driver.page_source , "negative case expected: wrong pass / email"
 
     element = fillLoginData(userName, passWord) #positive case 
     assert "flash=you_login" in driver.current_url
